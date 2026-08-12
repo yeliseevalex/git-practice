@@ -5,4 +5,3 @@ print("Hello world")
 print("Hello world!!!!")
 
 print("New line 1")
-print("New line 2")
